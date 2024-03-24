@@ -12,8 +12,8 @@
   --black-alpha-100: rgba(0, 0, 0, 0.05);
 }
 body {
-  font-family: "Kaushan Script", cursive;
-  font-size: 16px;
+  font-family: "Times  New Roman", Times, serif;
+  font-size: 25px;
   font-weight: normal;
   overflow-x: hidden;
   background-color: var(--white);
@@ -586,7 +586,7 @@ a:hover {
 }
 /* call to action */
 .call-to-action {
-  background: url("assets/img/background.jpg");
+  background: url("");
   background-position: center top;
   background-attachment: fixed;
   background-repeat: no-repeat;
